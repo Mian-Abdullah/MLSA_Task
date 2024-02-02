@@ -20,7 +20,7 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../web.jpg";
+import image from "../images/web.jpg";
 
 const imageAltText = "Web and App Developer";
 
